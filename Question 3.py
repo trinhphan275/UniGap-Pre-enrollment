@@ -8,7 +8,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="Phuongtrinh275@",
+  password="mypassword",
   database="unigap",
   auth_plugin='mysql_native_password'
 )
